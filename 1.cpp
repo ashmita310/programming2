@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#include<string>
 using namespace std;
 void reversecandy(string candy[],string rev_candy[],int size)
 {
