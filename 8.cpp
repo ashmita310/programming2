@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#include<string>
 using namespace std;
 int copy(string book[],string author[],int size)
 {
