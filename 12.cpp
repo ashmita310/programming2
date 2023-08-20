@@ -13,4 +13,5 @@ int main()
     int size = sizeof(weight)/sizeof(weight[0]);
     float result = product(weight, size);
     cout<<" Product of weights : "<<result;
+    return 0;
 }
